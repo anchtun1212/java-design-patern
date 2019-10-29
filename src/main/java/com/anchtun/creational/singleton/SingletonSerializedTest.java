@@ -1,4 +1,4 @@
-package com.anchtun.singleton;
+package com.anchtun.creational.singleton;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
